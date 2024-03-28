@@ -1,0 +1,90 @@
+{
+    "arcolinux":
+    {
+        "title": "Arch [uname -s] [uname -r] [uname -m] [uname -n]"
+    },
+    "debian":
+    {
+        "title": "Debian [uname -s] [uname -r] [uname -m] [uname -n]"
+    },
+    "elementary":
+    {
+        "title": "elementary [uname -s] [uname -r] [uname -m] [uname -n]"
+    },
+    "eurohouse":
+    {
+        "title": "Eurohouse Web App Design Concept",
+        "language":
+        {
+            "RU": "Концепция дизайна приложения Eurohouse"
+        }
+    },
+    "gtavc":
+    {
+        "title": "GTA Vice City Menu & UI Elements",
+        "language":
+        {
+            "RU": "Стиль интерфейса меню GTA Vice City"
+        }
+    },
+    "kalilinux":
+    {
+        "title": "Kali [uname -s] [uname -r] [uname -m] [uname -n]"
+    },
+    "linuxmint":
+    {
+        "title": "Mint [uname -s] [uname -r] [uname -m] [uname -n]"
+    },
+    "manjaro":
+    {
+        "title": "Manjaro [uname -s] [uname -r] [uname -m] [uname -n]"
+    },
+    "opensuse":
+    {
+        "title": "openSUSE [uname -s] [uname -r] [uname -m] [uname -n]"
+    },
+    "surface":
+    {
+        "title": "Microsoft Surface Pro 9 Desktop UltraHD"
+    },
+    "ubuntu":
+    {
+        "title": "Ubuntu [uname -s] [uname -r] [uname -m] [uname -n]"
+    },
+    "win95":
+    {
+        "title": "Microsoft Windows 95 OSR 2"
+    },
+    "win98":
+    {
+        "title": "Microsoft Windows 98 Second Edition"
+    },
+    "win2k":
+    {
+        "title": "Microsoft Windows 2000 Professional"
+    },
+    "winxp":
+    {
+        "title": "Microsoft Windows XP Professional"
+    },
+    "winvista":
+    {
+        "title": "Microsoft Windows Vista Enterprise"
+    },
+    "win7":
+    {
+        "title": "Microsoft Windows 7 Enterprise"
+    },
+    "win8":
+    {
+        "title": "Microsoft Windows 8 Enterprise"
+    },
+    "win10":
+    {
+        "title": "Microsoft Windows 10 Enterprise"
+    },
+    "win11":
+    {
+        "title": "Microsoft Windows 11 Enterprise"
+    }
+}

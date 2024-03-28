@@ -1,0 +1,100 @@
+{
+    "ArcoLinux":
+    {
+        "insignia": "android",
+        "country": "BE"
+    },
+    "Debian Linux":
+    {
+        "insignia": "android",
+        "country": "US"
+    },
+    "Elementary OS":
+    {
+        "insignia": "android"
+    },
+    "Eurohouse":
+    {
+        "insignia": "eurohouse",
+        "country": "EU"
+    },
+    "Grand Theft Auto Vice City":
+    {
+        "insignia": "pistol",
+        "country": "US"
+    },
+    "Kali Linux":
+    {
+        "insignia": "android",
+        "country": "CH"
+    },
+    "Linux Mint":
+    {
+        "insignia": "android"
+    },
+    "Manjaro Linux":
+    {
+        "insignia": "android",
+        "country": "FR"
+    },
+    "openSUSE Linux":
+    {
+        "insignia": "android",
+        "country": "DE"
+    },
+    "Surface Pro 9":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Ubuntu Focal Fossa":
+    {
+        "insignia": "android",
+        "country": "GB"
+    },
+    "Windows 95":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Windows 98":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Windows 2000":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Windows XP":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Windows Vista":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Windows 7":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Windows 8":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Windows 10":
+    {
+        "insignia": "windows",
+        "country": "US"
+    },
+    "Windows 11":
+    {
+        "insignia": "windows",
+        "country": "US"
+    }
+}
