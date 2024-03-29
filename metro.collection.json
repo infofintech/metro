@@ -11,14 +11,6 @@
     {
         "title": "elementary [uname -s] [uname -r] [uname -m] [uname -n]"
     },
-    "eurohouse":
-    {
-        "title": "Eurohouse Web App Design Concept",
-        "language":
-        {
-            "RU": "Концепция дизайна приложения Eurohouse"
-        }
-    },
     "gtavc":
     {
         "title": "GTA Vice City Menu & UI Elements",
