@@ -1,0 +1,62 @@
+{
+    "amigaos":
+    {
+        "title": "AmigaOS 4.1 Final Edition Update 2"
+    },
+    "amongtrees":
+    {
+        "title": "Among Trees (2020) Game Wallpaper"
+    },
+    "freebsd":
+    {
+        "title": "FreeBSD 14.0 (20 November 2023)"
+    },
+    "gtavc":
+    {
+        "title": "GTA Vice City Menu & UI Elements",
+        "language":
+        {
+            "RU": "Стиль интерфейса меню GTA Vice City"
+        }
+    },
+    "surface":
+    {
+        "title": "Microsoft Surface Pro 9 Desktop UltraHD"
+    },
+    "win95":
+    {
+        "title": "Microsoft Windows 95 Retail SP1"
+    },
+    "win98":
+    {
+        "title": "Microsoft Windows 98 Second Edition"
+    },
+    "win2k":
+    {
+        "title": "Microsoft Windows 2000 Professional"
+    },
+    "winme":
+    {
+        "title": "Microsoft Windows Millenium Edition"
+    },
+    "winvista":
+    {
+        "title": "Microsoft Windows Vista Enterprise"
+    },
+    "win7":
+    {
+        "title": "Microsoft Windows 7 Enterprise"
+    },
+    "win8":
+    {
+        "title": "Microsoft Windows 8 Enterprise"
+    },
+    "win10":
+    {
+        "title": "Microsoft Windows 10 Enterprise"
+    },
+    "win11":
+    {
+        "title": "Microsoft Windows 11 Enterprise"
+    }
+}
