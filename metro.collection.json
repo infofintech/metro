@@ -11,6 +11,14 @@
     {
         "title": "FreeBSD 14.0 (20 November 2023)"
     },
+    "gta3":
+    {
+        "title": "GTA III Menu & UI Elements",
+        "language":
+        {
+            "RU": "Стиль интерфейса меню GTA III"
+        }
+    },
     "gtavc":
     {
         "title": "GTA Vice City Menu & UI Elements",
