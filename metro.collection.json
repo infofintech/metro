@@ -1,7 +1,7 @@
 {
-    "amigaos": { "title": "AmigaOS ([df])" },
+    "amigaos": { "title": "AmigaOS ([free_disk_space])" },
     "amongtrees": { "title": "Among Trees" },
-    "freebsd": { "title": "FreeBSD ([df])" },
+    "freebsd": { "title": "FreeBSD ([free_disk_space])" },
     "gtaIII": { "title": "Grand Theft Auto III" },
     "gtaVC": { "title": "Grand Theft Auto: Vice City" },
     "gtaSA": { "title": "Grand Theft Auto: San Andreas" },
