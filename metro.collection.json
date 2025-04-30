@@ -1,116 +1,110 @@
 {
     "cheese": {
-        "title": "Eurohouse Classic Wallpapers - Cheese Table",
+        "title": "Cheese Table [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Сырная тарелка"
+            "RU": "Сырная тарелка [euro]"
         }
     },
     "coffee": {
-        "title": "Eurohouse Classic Wallpapers - Coffee Beans",
+        "title": "Coffee Beans [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Кофейные зерна"
+            "RU": "Кофейные зерна [euro]"
         }
     },
     "continental": {
-        "title": "Eurohouse Classic Wallpapers - Continental Breakfast",
+        "title": "Continental Breakfast [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Континентальный завтрак"
+            "RU": "Континентальный завтрак [euro]"
         }
     },
     "english": {
-        "title": "Eurohouse Classic Wallpapers - English Breakfast",
+        "title": "English Breakfast [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Английский завтрак"
+            "RU": "Английский завтрак [euro]"
         }
     },
     "gold": {
-        "title": "Eurohouse Classic Wallpapers - Golden Bars",
+        "title": "Golden Bars [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Золотые слитки"
+            "RU": "Золотые слитки [euro]"
         }
     },
     "macarons": {
-        "title": "Eurohouse Classic Wallpapers - Macarons",
+        "title": "Macarons Dessert [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Macarons"
+            "RU": "Макаронс Десерт [euro]"
         }
     },
     "meat": {
-        "title": "Eurohouse Classic Wallpapers - Meat Table",
+        "title": "Meat Table [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Мясная тарелка"
+            "RU": "Мясная тарелка [euro]"
         }
     },
     "mechanism": {
-        "title": "Eurohouse Classic Wallpapers - Clocks Mechanism",
+        "title": "Clocks Mechanism [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Механизм часов"
+            "RU": "Механизм часов [euro]"
         }
     },
     "nebula": {
-        "title": "Eurohouse Classic Wallpapers - Nebula",
+        "title": "Starry Nebula [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Туманность"
+            "RU": "Туманность [euro]"
         }
     },
     "ornament": {
-        "title": "Eurohouse Classic Wallpapers - European Ornament",
+        "title": "European Ornament [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Европейские узоры"
+            "RU": "Европейские узоры [euro]"
         }
     },
     "praline": {
-        "title": "Eurohouse Classic Wallpapers - Praline",
+        "title": "Belgian Praline [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Пралине"
-        }
-    },
-    "sausage": {
-        "title": "Eurohouse Classic Wallpapers - Sausage",
-        "language": {
-            "RU": "Классические обои Eurohouse - Колбасы"
+            "RU": "Пралине [euro]"
         }
     },
     "silk": {
-        "title": "Eurohouse Classic Wallpapers - Soft Silk",
+        "title": "Soft Silk [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Нежный шёлк"
+            "RU": "Нежный шёлк [euro]"
         }
     },
     "tiramisu": {
-        "title": "Eurohouse Classic Wallpapers - Tiramisu",
+        "title": "Ricetta Tiramisu [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Тирамису"
+            "RU": "Рецепт Тирамису [euro]"
         }
     },
     "tropical": {
-        "title": "Eurohouse Classic Wallpapers - Tropical Fruits",
+        "title": "Tropical Delight [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Тропические фрукты"
+            "RU": "Тропическое наслаждение [euro]"
         }
     },
     "waffle": {
-        "title": "Eurohouse Classic Wallpapers - Belgian Waffles",
+        "title": "Viennese Waffles [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Бельгийские вафли"
+            "RU": "Венские вафли [euro]"
         }
     },
     "wenger": {
-        "title": "Eurohouse Classic Wallpapers - Wenger Swiss Watch",
+        "title": "Wenger Swiss Watch [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Швейцарские часы Wenger"
+            "RU": "Швейцарские часы Wenger [euro]"
         }
     },
     "wine": {
-        "title": "Eurohouse Classic Wallpapers - Red Wine",
+        "title": "Cabernet Franc [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Красное вино"
+            "RU": "Каберне Фран [euro]"
         }
     },
     "wool": {
-        "title": "Eurohouse Classic Wallpapers - Sheep Wool",
+        "title": "Sheep Wool [euro]",
         "language": {
-            "RU": "Классические обои Eurohouse - Овечья шерсть"
+            "RU": "Овечья шерсть [euro]"
         }
     },
     "amigaos": { "title": "AmigaOS ([free_disk_space])" },
