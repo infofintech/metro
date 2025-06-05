@@ -1,110 +1,110 @@
 {
     "cheese": {
-        "title": "Cheese Table [app_version]",
+        "title": "Cheese Table ([app_version])",
         "language": {
-            "RU": "Сырная тарелка [app_version]"
+            "RU": "Сырная тарелка ([app_version])"
         }
     },
     "coffee": {
-        "title": "Coffee Beans [app_version]",
+        "title": "Coffee Beans ([app_version])",
         "language": {
-            "RU": "Кофейные зерна [app_version]"
+            "RU": "Кофейные зерна ([app_version])"
         }
     },
     "continental": {
-        "title": "Continental Breakfast [app_version]",
+        "title": "Continental Breakfast ([app_version])",
         "language": {
-            "RU": "Континентальный завтрак [app_version]"
+            "RU": "Континентальный завтрак ([app_version])"
         }
     },
     "english": {
-        "title": "English Breakfast [app_version]",
+        "title": "English Breakfast ([app_version])",
         "language": {
-            "RU": "Английский завтрак [app_version]"
+            "RU": "Английский завтрак ([app_version])"
         }
     },
     "gold": {
-        "title": "Golden Bars [app_version]",
+        "title": "Golden Bars ([app_version])",
         "language": {
-            "RU": "Золотые слитки [app_version]"
+            "RU": "Золотые слитки ([app_version])"
         }
     },
     "macarons": {
-        "title": "Macarons Dessert [app_version]",
+        "title": "Macarons Dessert ([app_version])",
         "language": {
-            "RU": "Макаронс Десерт [app_version]"
+            "RU": "Макаронс Десерт ([app_version])"
         }
     },
     "meat": {
-        "title": "Meat Table [app_version]",
+        "title": "Meat Table ([app_version])",
         "language": {
-            "RU": "Мясная тарелка [app_version]"
+            "RU": "Мясная тарелка ([app_version])"
         }
     },
     "mechanism": {
-        "title": "Clocks Mechanism [app_version]",
+        "title": "Clocks Mechanism ([app_version])",
         "language": {
-            "RU": "Механизм часов [app_version]"
+            "RU": "Механизм часов ([app_version])"
         }
     },
     "nebula": {
-        "title": "Starry Nebula [app_version]",
+        "title": "Starry Nebula ([app_version])",
         "language": {
-            "RU": "Туманность [app_version]"
+            "RU": "Туманность ([app_version])"
         }
     },
     "ornament": {
-        "title": "European Ornament [app_version]",
+        "title": "European Ornament ([app_version])",
         "language": {
-            "RU": "Европейские узоры [app_version]"
+            "RU": "Европейские узоры ([app_version])"
         }
     },
     "praline": {
-        "title": "Belgian Praline [app_version]",
+        "title": "Belgian Praline ([app_version])",
         "language": {
-            "RU": "Пралине [app_version]"
+            "RU": "Пралине ([app_version])"
         }
     },
     "silk": {
-        "title": "Soft Silk [app_version]",
+        "title": "Soft Silk ([app_version])",
         "language": {
-            "RU": "Нежный шёлк [app_version]"
+            "RU": "Нежный шёлк ([app_version])"
         }
     },
     "tiramisu": {
-        "title": "Ricetta Tiramisu [app_version]",
+        "title": "Ricetta Tiramisu ([app_version])",
         "language": {
-            "RU": "Рецепт Тирамису [app_version]"
+            "RU": "Рецепт Тирамису ([app_version])"
         }
     },
     "tropical": {
-        "title": "Tropical Delight [app_version]",
+        "title": "Tropical Delight ([app_version])",
         "language": {
-            "RU": "Тропическое наслаждение [app_version]"
+            "RU": "Тропическое наслаждение ([app_version])"
         }
     },
     "waffle": {
-        "title": "Viennese Waffles [app_version]",
+        "title": "Viennese Waffles ([app_version])",
         "language": {
-            "RU": "Венские вафли [app_version]"
+            "RU": "Венские вафли ([app_version])"
         }
     },
     "wenger": {
-        "title": "Wenger Swiss Watch [app_version]",
+        "title": "Wenger Swiss Watch ([app_version])",
         "language": {
-            "RU": "Швейцарские часы Wenger [app_version]"
+            "RU": "Швейцарские часы Wenger ([app_version])"
         }
     },
     "wine": {
-        "title": "Cabernet Franc [app_version]",
+        "title": "Cabernet Franc ([app_version])",
         "language": {
-            "RU": "Каберне Фран [app_version]"
+            "RU": "Каберне Фран ([app_version])"
         }
     },
     "wool": {
-        "title": "Sheep Wool [app_version]",
+        "title": "Sheep Wool ([app_version])",
         "language": {
-            "RU": "Овечья шерсть [app_version]"
+            "RU": "Овечья шерсть ([app_version])"
         }
     },
     "amigaos": { "title": "AmigaOS ([sys_version])" },
