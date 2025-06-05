@@ -1,128 +1,128 @@
 {
     "cheese": {
-        "title": "Cheese Table [euro]",
+        "title": "Cheese Table [app_version]",
         "language": {
-            "RU": "Сырная тарелка [euro]"
+            "RU": "Сырная тарелка [app_version]"
         }
     },
     "coffee": {
-        "title": "Coffee Beans [euro]",
+        "title": "Coffee Beans [app_version]",
         "language": {
-            "RU": "Кофейные зерна [euro]"
+            "RU": "Кофейные зерна [app_version]"
         }
     },
     "continental": {
-        "title": "Continental Breakfast [euro]",
+        "title": "Continental Breakfast [app_version]",
         "language": {
-            "RU": "Континентальный завтрак [euro]"
+            "RU": "Континентальный завтрак [app_version]"
         }
     },
     "english": {
-        "title": "English Breakfast [euro]",
+        "title": "English Breakfast [app_version]",
         "language": {
-            "RU": "Английский завтрак [euro]"
+            "RU": "Английский завтрак [app_version]"
         }
     },
     "gold": {
-        "title": "Golden Bars [euro]",
+        "title": "Golden Bars [app_version]",
         "language": {
-            "RU": "Золотые слитки [euro]"
+            "RU": "Золотые слитки [app_version]"
         }
     },
     "macarons": {
-        "title": "Macarons Dessert [euro]",
+        "title": "Macarons Dessert [app_version]",
         "language": {
-            "RU": "Макаронс Десерт [euro]"
+            "RU": "Макаронс Десерт [app_version]"
         }
     },
     "meat": {
-        "title": "Meat Table [euro]",
+        "title": "Meat Table [app_version]",
         "language": {
-            "RU": "Мясная тарелка [euro]"
+            "RU": "Мясная тарелка [app_version]"
         }
     },
     "mechanism": {
-        "title": "Clocks Mechanism [euro]",
+        "title": "Clocks Mechanism [app_version]",
         "language": {
-            "RU": "Механизм часов [euro]"
+            "RU": "Механизм часов [app_version]"
         }
     },
     "nebula": {
-        "title": "Starry Nebula [euro]",
+        "title": "Starry Nebula [app_version]",
         "language": {
-            "RU": "Туманность [euro]"
+            "RU": "Туманность [app_version]"
         }
     },
     "ornament": {
-        "title": "European Ornament [euro]",
+        "title": "European Ornament [app_version]",
         "language": {
-            "RU": "Европейские узоры [euro]"
+            "RU": "Европейские узоры [app_version]"
         }
     },
     "praline": {
-        "title": "Belgian Praline [euro]",
+        "title": "Belgian Praline [app_version]",
         "language": {
-            "RU": "Пралине [euro]"
+            "RU": "Пралине [app_version]"
         }
     },
     "silk": {
-        "title": "Soft Silk [euro]",
+        "title": "Soft Silk [app_version]",
         "language": {
-            "RU": "Нежный шёлк [euro]"
+            "RU": "Нежный шёлк [app_version]"
         }
     },
     "tiramisu": {
-        "title": "Ricetta Tiramisu [euro]",
+        "title": "Ricetta Tiramisu [app_version]",
         "language": {
-            "RU": "Рецепт Тирамису [euro]"
+            "RU": "Рецепт Тирамису [app_version]"
         }
     },
     "tropical": {
-        "title": "Tropical Delight [euro]",
+        "title": "Tropical Delight [app_version]",
         "language": {
-            "RU": "Тропическое наслаждение [euro]"
+            "RU": "Тропическое наслаждение [app_version]"
         }
     },
     "waffle": {
-        "title": "Viennese Waffles [euro]",
+        "title": "Viennese Waffles [app_version]",
         "language": {
-            "RU": "Венские вафли [euro]"
+            "RU": "Венские вафли [app_version]"
         }
     },
     "wenger": {
-        "title": "Wenger Swiss Watch [euro]",
+        "title": "Wenger Swiss Watch [app_version]",
         "language": {
-            "RU": "Швейцарские часы Wenger [euro]"
+            "RU": "Швейцарские часы Wenger [app_version]"
         }
     },
     "wine": {
-        "title": "Cabernet Franc [euro]",
+        "title": "Cabernet Franc [app_version]",
         "language": {
-            "RU": "Каберне Фран [euro]"
+            "RU": "Каберне Фран [app_version]"
         }
     },
     "wool": {
-        "title": "Sheep Wool [euro]",
+        "title": "Sheep Wool [app_version]",
         "language": {
-            "RU": "Овечья шерсть [euro]"
+            "RU": "Овечья шерсть [app_version]"
         }
     },
-    "amigaos": { "title": "AmigaOS ([free_disk_space])" },
+    "amigaos": { "title": "AmigaOS ([sys_version])" },
     "amongtrees": { "title": "Among Trees ([free_disk_space])" },
-    "freebsd": { "title": "FreeBSD ([free_disk_space])" },
-    "gtaIII": { "title": "Grand Theft Auto III ([free_disk_space])" },
-    "gtaVC": { "title": "Grand Theft Auto: Vice City ([free_disk_space])" },
-    "gtaSA": { "title": "Grand Theft Auto: San Andreas ([free_disk_space])" },
+    "freebsd": { "title": "FreeBSD ([sys_version])" },
+    "gtaIII": { "title": "Grand Theft Auto III ([server_ip])" },
+    "gtaVC": { "title": "Grand Theft Auto: Vice City ([server_ip])" },
+    "gtaSA": { "title": "Grand Theft Auto: San Andreas ([server_ip])" },
     "heroes": { "title": "Heroes & Generals ([free_disk_space])" },
     "squadrons": { "title": "STAR WARS Squadrons ([free_disk_space])" },
     "surface": { "title": "Microsoft Surface Pro ([free_disk_space])" },
-    "win95": { "title": "Microsoft Windows 95 ([free_disk_space])" },
-    "win98": { "title": "Microsoft Windows 98 ([free_disk_space])" },
-    "win2k": { "title": "Microsoft Windows 2000 ([free_disk_space])" },
-    "winme": { "title": "Microsoft Windows ME ([free_disk_space])" },
-    "winvista": { "title": "Microsoft Windows Vista ([free_disk_space])" },
-    "win7": { "title": "Microsoft Windows 7 ([free_disk_space])" },
-    "win8": { "title": "Microsoft Windows 8 ([free_disk_space])" },
-    "win10": { "title": "Microsoft Windows 10 ([free_disk_space])" },
-    "win11": { "title": "Microsoft Windows 11 ([free_disk_space])" }
+    "win95": { "title": "Microsoft Windows 95 ([sys_version])" },
+    "win98": { "title": "Microsoft Windows 98 ([sys_version])" },
+    "win2k": { "title": "Microsoft Windows 2000 ([sys_version])" },
+    "winme": { "title": "Microsoft Windows ME ([sys_version])" },
+    "winvista": { "title": "Microsoft Windows Vista ([app_version])" },
+    "win7": { "title": "Microsoft Windows 7 ([app_version])" },
+    "win8": { "title": "Microsoft Windows 8 ([app_version])" },
+    "win10": { "title": "Microsoft Windows 10 ([app_version])" },
+    "win11": { "title": "Microsoft Windows 11 ([app_version])" }
 }
